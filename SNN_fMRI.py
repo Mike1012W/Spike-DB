@@ -1,4 +1,3 @@
-# Inital commit
 import torch
 from scipy.io import loadmat
 from einops import rearrange
